@@ -1,7 +1,4 @@
 import streamlit as st;
-import json
-
-key_dict = json.loads(st.secrets['textkey'])
 
 st.write("자료구조와 알고리즘 : **Queue 와 Priority Queue**")
 

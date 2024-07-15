@@ -1,4 +1,5 @@
 streamlit
-fireebase
+firebase_admin
 pandas
-matplotlib
+toml
+json
