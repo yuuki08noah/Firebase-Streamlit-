@@ -1,0 +1,4 @@
+streamlit
+fireebase
+pandas
+matplotlib
