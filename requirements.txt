@@ -2,4 +2,3 @@ streamlit
 firebase_admin
 pandas
 toml
-json
